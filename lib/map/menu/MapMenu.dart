@@ -1,6 +1,8 @@
 // import 'package:flutter/material.dart';
 
-class Item{
+// ignore_for_file: file_names
+
+class Item {
   final String name;
   final double price;
   final String iconItem;
